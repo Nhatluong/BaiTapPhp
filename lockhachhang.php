@@ -14,7 +14,7 @@
                 <th>Stt</th>
                 <th>Ten</th>
                 <th>Ngay sinh</th>
-<!--                <th>Dia chi</th>-->
+                <th>Dia chi</th>
                 <th>anh</th>
             </tr>
             <?php
